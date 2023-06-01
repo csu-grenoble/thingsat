@@ -1,4 +1,4 @@
-# Thingsat :: LoRa benchmarks from cubesatThingsat project
+# Thingsat :: LoRa benchmarks from cubesat
 
 All public repositories related to the Thingsat project are hosted here:
 
